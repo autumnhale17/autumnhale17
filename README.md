@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
+- 📫 Reach me at [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
 
 - 💬 Ask me about **anything front-end!**
 
