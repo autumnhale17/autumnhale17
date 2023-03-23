@@ -5,7 +5,7 @@
 
 - 📫 Reach me at [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
 
-- 💬 Ask me about **anything front-end!**
+- 💬 Talk with me about **anything front-end!**
 
 - ⚡ Fun fact **I love Tetris.**
 
