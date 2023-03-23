@@ -5,9 +5,11 @@
 
 - 📫 Reach me at [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
 
-- 💬 Talk with me about **anything front-end!**
+- 💬 Ask me about **horror movies!**
 
 - ⚡ Fun fact **I love Tetris.**
+
+- :relaxed: I like to read, walk, listen to music & podcasts, and game in my free time. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
