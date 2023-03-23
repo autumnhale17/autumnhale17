@@ -5,7 +5,7 @@
 
 - 📫 Reach me at [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
 
-- 💬 Ask me about **horror movies!**
+- 💬 Ask me about **Legos!**
 
 - ⚡ Fun fact **I love Tetris.**
 
@@ -22,8 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=autumnhale17&show_icons=true&theme=dracula&locale=en" alt="autumnhale17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=autumnhale17&theme=dark" alt="autumnhale17" /></p>
-
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
