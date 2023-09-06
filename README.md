@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love Tetris.**
 
-- :relaxed: I like to read, walk, listen to music & podcasts, and game in my free time. 
+- :relaxed: I like to read, take walks, listen to music & podcasts, and game in my free time. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
