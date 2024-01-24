@@ -5,7 +5,7 @@
 
 - 📫 Reach me at [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
 
-- Check out my portfolio! https://autumnhale17.github.io/
+- Check out my portfolio! https://autumnhale.com
 
 - 💬 Ask me about **Legos!**
 
