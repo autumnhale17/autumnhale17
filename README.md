@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Autumn Hale</h1>
 <h3 align="center">Puzzle-solving software developer located in Tennessee.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 Reach me at [autumnhale17@yahoo.com](autumnhale17@yahoo.com)
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love Tetris.**
 
-- :relaxed: I like to read, take walks, listen to music & podcasts, and game in my free time. 
+- :relaxed: I like to read, play guitar, listen to music & podcasts, and game in my free time. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
