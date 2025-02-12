@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Autumn Hale</h1>
-<h3 align="center">Puzzle-solving software developer located in Tennessee.</h3>
+<h3 align="center">Puzzle-solving software developer located in Kentucky</h3>
 
 - 🌱 I’m currently learning **Swift**
 
